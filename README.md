@@ -14,3 +14,11 @@ You should create one R script called run_analysis.R that does the following.
     - Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
     - create a cookbook that describes all operations that have been effected
     - upload your scripts in this repo
+    
+There is only 1 script call run_analysis.R that reads in all data
+merges/transforms data/columns
+selects subset of columns : mean and std
+writes ou the tidy dataset 
+creates a second dataset with mean by activity and subject
+
+=============================================
